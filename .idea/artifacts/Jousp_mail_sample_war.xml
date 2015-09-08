@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Jousp-mail-sample:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="owen.war">
+      <element id="artifact" artifact-name="Jousp-mail-sample:war exploded" />
+    </root>
+  </artifact>
+</component>
